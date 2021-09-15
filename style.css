@@ -1,0 +1,16 @@
+h1
+{
+	color: rgba(255, 0, 119, 0.884); 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("bg1.jpg");
+	background-position: center;
+    background-size: cover;
+}
+
+#paint{
+border-width:10px;
+background-color: blanchedalmond;
+border-style: ridge;
+}
